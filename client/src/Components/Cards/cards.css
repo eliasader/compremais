@@ -1,0 +1,23 @@
+.cards{
+    background-color: white;
+    margin-left: 2rem;
+    width: 20rem; 
+    height:25rem;
+    border: 0 solid transparent;
+    border-radius: 50px;
+   
+}
+.cards img{
+    padding-top:5px;
+    border-radius: 50px;
+    width: 15rem;
+}
+.price{
+    font-size: 4rem;
+    font-weight: 500;
+}
+.price-cents{
+    font-size: 2rem;
+    position: relative;
+    bottom: 1.5rem;
+}

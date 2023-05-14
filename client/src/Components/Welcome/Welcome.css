@@ -1,0 +1,26 @@
+.intro {
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 50em;
+    overflow: hidden;
+    border-bottom: 0.2em solid black;
+}
+
+.intro img{
+    display:block;
+    padding: 0;
+    grid-column: 1/1;
+    width: 80%;
+}
+
+.welcome-text{
+    grid-column: 3/3;
+    text-align: right;
+    margin: 0;
+    position: relative;
+    top: 20%;
+    right: 10%;
+    font-weight: 400;
+    font-size: 3em;
+}
