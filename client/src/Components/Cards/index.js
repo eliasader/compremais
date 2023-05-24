@@ -7,11 +7,11 @@ const Card = (props) => {
                 <img src="/Images/Ferro.jpg"/>
             </div>
             <div className="prod-info">
-                <h1>Ferro de passar</h1>
+                <h1>{props.Name}</h1>
                 <span className="price">
-                    R$ 93
+                    {props.price}
                     <span className="price-cents">
-                        99
+                    {props.priceCents}
                     </span>
                 </span>
             </div>
