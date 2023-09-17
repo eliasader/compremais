@@ -1,0 +1,14 @@
+
+#contact__main{
+    display: flex;  
+    align-content: center;
+    justify-content: space-around;
+    background-color: white;
+    font-size: 30px;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+p{
+    font-weight: 500;
+}

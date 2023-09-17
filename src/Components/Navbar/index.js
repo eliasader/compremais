@@ -6,9 +6,8 @@ const Navbar = () =>{
         <div className="navbar">   
             <img src="/Images/logo.png" alt="logo do compre mais"/>
             <ul className="options">
-                <li><a href="">Home</a></li>    
-                <li><a href="">Contato</a></li>    
-                <li><a href="">Sobre nos</a></li>    
+                <li><a href="#intro">Home</a></li>    
+                <li><a href="#contact__main">Contato</a></li>      
             </ul> 
         </div>
     )

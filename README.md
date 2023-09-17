@@ -1,5 +1,7 @@
-# CompreMais:heavy_plus_sign:
-
-Projeto inicial de um e-commerce virtual.
-
-
+# Compre mais e-commerce/ Loja virtual Compre mais
+---
+### React.js e-commerce 
+### Loja virtual Compre mais feita em React.js
+---
+# NOTICE:
+## Still working on english translation 

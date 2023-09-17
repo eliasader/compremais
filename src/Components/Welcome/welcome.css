@@ -1,4 +1,4 @@
-.intro {
+#intro {
     background-color: white;
     display: grid;
     grid-template-columns: auto auto auto;
@@ -7,7 +7,7 @@
     border-bottom: 0.2em solid black;
 }
 
-.intro img{
+#intro img{
     display:block;
     padding: 0;
     grid-column: 1/1;
@@ -19,7 +19,7 @@
     text-align: right;
     margin: 0;
     position: relative;
-    top: 20%;
+    top: 40%;
     right: 10%;
     font-weight: 400;
     font-size: 3em;
